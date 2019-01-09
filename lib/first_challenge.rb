@@ -22,7 +22,7 @@ contacts.each do |person, data|
       #do |flavor|
       #  flavor.delete_if =="strawberry"
       #  a.delete_if {|x| x >= "b" }
-      end
+      #end
     end
   end
 end
